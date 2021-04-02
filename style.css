@@ -1,0 +1,27 @@
+header{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+body{
+    background-image: url(Background/abstract-colorful-space-colors-art-4k-ipad-pro-wallpaper-ilikewallpaper_com.jpg);
+    
+    }
+h1{
+    color:rgb(3, 3, 3);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    font-size: 20.25px;
+    text-align: left;
+    text-align: center;
+}
+p{
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+footer{
+    padding-top: 900px;
+    text-align: center;
+}
+img{
+    padding-bottom: 50px;
+}
